@@ -11,6 +11,7 @@ Data:
 
 Source code:
 - topic_modeling_v5.ipynb
+- topic_modeling_v5.py
 
 Report:
 - Topic_Modeling_Report_Suchartee_K.pdf
